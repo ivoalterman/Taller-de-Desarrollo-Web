@@ -4,11 +4,11 @@ Repositorio para la materia "Taller de Desarrollo Web"
 
 ## Autor
 * Ivo **Alterman**
-*Benjamin **Gimenez**
+* Benjamin **Gimenez**
 
 ## Contenido/Descripcion 
 
-| Email | Autor |
+| Email | Autores |
 |-------|-------|
 |2408150@ucc.edu.ar|Ivo Alterman|
 |2523263@ucc.edu.ar|Benjamin Gimenez|
