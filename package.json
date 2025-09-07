@@ -1,0 +1,23 @@
+{
+  "name": "taller-de-desarrollo-web",
+  "version": "1.0.0",
+  "description": "Repositorio para la materia \"Taller de Desarrollo Web\"",
+  "main": "ejemplo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoalterman/Taller-de-Desarrollo-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivoalterman/Taller-de-Desarrollo-Web/issues"
+  },
+  "homepage": "https://github.com/ivoalterman/Taller-de-Desarrollo-Web#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.4"
+  }
+}
